@@ -34,7 +34,7 @@ export function ExhibitionInfo() {
             </div>
             <h3 className="mb-2">観覧料</h3>
             <p className="text-gray-400 mb-1">一般 1,600円 / 大学生 1,200円</p>
-            <p className="text-gray-400">高校生以下・障がい者手帳提示</p>
+            <p className="text-gray-400">高校生以下無料</p>
           </div>
         </div>
       </div>
