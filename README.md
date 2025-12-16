@@ -3,9 +3,9 @@ https://www.sihd-bk.jp/corporation/expo2025/choetsu/
 ※What'sの白が背景なのは上記による理由です。
 ※動画はYoutubeの埋め込みで対応しています。
 
-# 完全再現（日本語版 README）
+# 大阪超越文化横丁（日本語版 README）
 
-このリポジトリは「完全再現」のコードバンドルです。元のプロジェクトは以下で公開されています。  
+このリポジトリは「大阪超越文化横丁」のコードバンドルです。元のプロジェクトは以下で公開されています。  
 https://www.figma.com/design/ft7D0da8V9qTTia4xXDOrd/%E5%AE%8C%E5%85%A8%E5%86%8D%E7%8F%BE
 
 ## セットアップ
